@@ -1,7 +1,7 @@
 import time
 import tkinter
 
-payRate = float(input("Input your pay rate as a float "))
+payRate = float(input("Input your pay rate as a float in Dollars per Hour! "))
 root = tkinter.Tk()
 root.title('Pay for the Day')
 
